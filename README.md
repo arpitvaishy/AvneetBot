@@ -1,6 +1,6 @@
 # GRAND OFFICIAL
 
-DEPLOY HERE - [ArpitVaishy]()
+DEPLOY HERE - [ArpitVaishy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
 [.](https://heroku.com/deploy)
 Credits - [Cosmosify](https://t.me/Cosmosifyhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
 
